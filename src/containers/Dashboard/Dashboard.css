@@ -1,0 +1,12 @@
+
+.dashboard {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+}
+
+.chart {    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,36 @@
+
+.country-list-wrapper {
+    width: 320px;
+    background-color: rgb(201, 198, 198);
+    padding: 1em 1.5em;
+    /* margin: 0 auto; */
+}
+
+.country-list-wrapper h3 {
+    text-align: center;
+}
+
+.country-list {
+    overflow-y: scroll;
+    height: 189px;
+    border: gray solid 1px;
+    margin: 0 30px;
+}
+
+.compare p {
+    margin: 0;
+    height: 2em;
+    color: rgb(255, 36, 36);
+}
+
+.btn-div {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+
+.btn-div button {
+    padding: 5px;
+    width: 180px;
+}

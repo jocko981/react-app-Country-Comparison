@@ -1,0 +1,12 @@
+
+.recharts-wrapper {
+    height: clamp(150px, 100%, 500px) !important;
+}
+
+svg.recharts-surface {
+    height: clamp(150px, 100%, 500px) !important;
+}
+
+.recharts-surface {
+    width: clamp(300px, 100%, 1000px) !important;
+}

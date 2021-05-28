@@ -1,0 +1,9 @@
+
+.checkbox-div {
+    padding: 2px;
+}
+
+.checkbox-div input[type=checkbox] {
+    transform: scale(1.8);
+    margin: 10px 15px 10px 15px;
+}
